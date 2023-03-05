@@ -1,0 +1,1 @@
+python bleu_results.py $'/Users/adimulamsathwika/Documents/MastersSubjects/Deep Learning/Homework 2/code_files/MLDS_hw2_1_data/testing_data/feat' $'test_data.txt'
