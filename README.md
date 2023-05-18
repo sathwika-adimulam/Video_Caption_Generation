@@ -1,1 +1,1 @@
-# 8430_DeepLearning_HW2
+Implemented a sequence-to-sequence model for video caption generation, leveraging deep learning techniques to automatically generate descriptive and accurate captions for videos. Applied encoder-decoder architecture with attention mechanisms to capture temporal dependencies and improve caption quality.
